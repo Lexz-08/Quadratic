@@ -7,4 +7,4 @@
 Factors quadratic expressions, given their a/b/c value(s).
 
 ## Download
-[![](https://img.shields.io/badge/download-Quadratic.dll-red)](https://github.com/Lexz-08/Quadratic/releases/download/latest/Quadratic.dll)
+[![](https://img.shields.io/badge/download-Quadratic.dll-red)](https://github.com/Lexz-08/Quadratic/releases/latest/download/Quadratic.dll)

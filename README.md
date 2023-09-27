@@ -6,8 +6,5 @@
 ## Description
 Factors quadratic expressions, given their a/b/c value(s).
 
-## Documentation
-`// TODO`
-
 ## Download
 [![](https://img.shields.io/badge/download-Quadratic.dll-red)](https://github.com/Lexz-08/Quadratic/releases/download/latest/Quadratic.dll)
